@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter 
   template_string:
     git:
-      url: git@github.com:hacnguyen1412/flutter_sheet_localization.git
+      url: https://github.com/hacnguyen1412/flutter_sheet_localization.git
       path: template_string
   recase: ^4.1.0
   yaml: ^3.1.1
